@@ -2,7 +2,7 @@
 <h3 align="center">Backend-leaning Full-Stack Developer | ML Enthusiast | B.E. Information Technology @ PICT Pune</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tanayraundale" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tanay-raundale-726086303/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tanayraundale13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -48,23 +48,14 @@
 Cross-platform virtual lab for PICT's Entrepreneurial Software Development course. Role-based auth, assignment/quiz management, and analytics dashboards.
 `React Native` `Express.js` `MongoDB`
 
-**[Citizen Complaint Management System](https://github.com/TanayRaundale)**
+**[Citizen Complaint Management System](https://github.com/TanayRaundale/CITIZEN_COMPLAINT_MANAGEMENT)**
 Full-stack platform for citizens to file and track complaints, with location tagging and a Google Maps admin view.
 `React.js` `Node.js` `Express.js` `MongoDB`
 
-**[Doc Genie](https://github.com/TanayRaundale)**
+**[Doc Genie](https://github.com/TanayRaundale/Voice-AI-for-MIcrosoft-Word)**
 Voice-controlled assistant for Microsoft Word — automates formatting, content generation, and even PPT creation from voice commands.
 `Python` `PyQt` `NLP`
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TanayRaundale&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanayRaundale&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 <p align="center"><i>Open to backend & full-stack opportunities — let's connect!</i></p>
